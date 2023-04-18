@@ -20,6 +20,8 @@ example:
 
 ​		开启多线程，每个线程负责扫描一个端口
 
-
+![多线程](https://github.com/dhcpack/port-scanner/blob/main/image/%E7%BA%BF%E7%A8%8B.jpg)
 
 ​		使用Winsock库进行TCP全连接扫描的流程图
+
+![全连接扫描](https://github.com/dhcpack/port-scanner/blob/main/image/%E8%BF%9E%E6%8E%A5.jpg)
